@@ -26,13 +26,13 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
   },
   container: {
-    backgroundColor: 'red',
+    backgroundColor: 'white',
     paddingVertical: 10,
     paddingHorizontal: 10,
     flexDirection: 'row',
   },
   right: {
-    backgroundColor: 'green',
+    backgroundColor: '#eee',
     flex: 1,
     flexDirection: 'row',
     justifyContent: 'flex-end',

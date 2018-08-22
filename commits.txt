@@ -1,0 +1,11 @@
+commit 35ecca25888d5684f149b834000a3ea492f17803
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Tue Aug 21 11:16:37 2018 -0500
+
+    Organizando componentes
+
+commit 42759c3ac65c194eb9f0ea94707b4d82b509a218
+Author: David Flores <david@iMac-de-David.local>
+Date:   Tue Aug 21 10:28:22 2018 -0500
+
+    Platzi video - Persistencia de datos y creando un componente de carga Loading

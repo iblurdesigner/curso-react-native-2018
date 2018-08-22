@@ -1,9 +1,12 @@
 import React from 'react';
-import {View, Text, Image, StyleSheet } from 'react-native';
+import {View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
 
 function Suggestion(props){
   return(
-    <View style={styles.container}>
+    <TouchableOpacity
+      onPress={props.onPress}
+      >
+      <View style={styles.container}>
       <View style={styles.left}>
         <Image
           style={styles.cover}
@@ -21,6 +24,7 @@ function Suggestion(props){
         <Text style={styles.rating}>{props.rating} estrellas</Text>
       </View>
     </View>
+    </TouchableOpacity>
   )
 }
 
