@@ -1,3 +1,9 @@
+commit effba308dd891d240e3106c466c3b7df7bce4c6f
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Wed Aug 22 09:59:01 2018 -0500
+
+    Validando pantallas
+
 commit 35ecca25888d5684f149b834000a3ea492f17803
 Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
 Date:   Tue Aug 21 11:16:37 2018 -0500
