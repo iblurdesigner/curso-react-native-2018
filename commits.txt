@@ -1,3 +1,9 @@
+commit 6bd83d292c13bb0116f8e8f5dbd80a2ca5061b2e
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Wed Aug 22 14:39:35 2018 -0500
+
+    Animaciones
+
 commit 8b06d05a87d50ada06f55d5543e60cb875d1720d
 Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
 Date:   Wed Aug 22 12:51:37 2018 -0500
