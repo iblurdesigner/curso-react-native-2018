@@ -1,3 +1,15 @@
+commit 8b06d05a87d50ada06f55d5543e60cb875d1720d
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Wed Aug 22 12:51:37 2018 -0500
+
+    Haciendo peticiones personalizadas al API
+
+commit 6652e1659e69401bde67f2d96c3e280246fbadd1
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Wed Aug 22 12:34:45 2018 -0500
+
+    Componente de buscador
+
 commit b51bac52af771615a608e59480f25d8fab9a39cf
 Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
 Date:   Wed Aug 22 12:04:29 2018 -0500
