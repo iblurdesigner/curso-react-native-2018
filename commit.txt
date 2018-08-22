@@ -1,0 +1,29 @@
+commit 77f4ca23a37a8f4ae7c4103b2e4bd026b54db23a
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Wed Aug 22 11:13:15 2018 -0500
+
+    Agregando la descripción a la película
+
+commit 29d854d740fb28cfcc157648055b71ef6ae31c1f
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Wed Aug 22 10:38:22 2018 -0500
+
+    Navegando entre pantallas
+
+commit effba308dd891d240e3106c466c3b7df7bce4c6f
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Wed Aug 22 09:59:01 2018 -0500
+
+    Validando pantallas
+
+commit 35ecca25888d5684f149b834000a3ea492f17803
+Author: “iblurdesigner” <nevomen@gmail.com”git config --global user.emailgit config --global user.email nevomen@gmail.com”>
+Date:   Tue Aug 21 11:16:37 2018 -0500
+
+    Organizando componentes
+
+commit 42759c3ac65c194eb9f0ea94707b4d82b509a218
+Author: David Flores <david@iMac-de-David.local>
+Date:   Tue Aug 21 10:28:22 2018 -0500
+
+    Platzi video - Persistencia de datos y creando un componente de carga Loading
